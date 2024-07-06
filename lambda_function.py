@@ -1,6 +1,6 @@
 from flask import Flask, request
 
-from businessrule.ProcessFile import ProcessFile
+from businessrule.process_file import ProcessFile
 
 app = Flask(__name__)
 

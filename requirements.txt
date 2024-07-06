@@ -1,0 +1,5 @@
+openpyxl
+validate_docbr
+pandas
+requests
+flask
